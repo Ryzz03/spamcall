@@ -3,9 +3,9 @@ import requests
 import subprocess
 from requests import post
 
-#MASUKAN NOMOR DI KOLOM VARIABLE URL
-#MASUKAN NOMOR TANPA 62/0
-#CONTOH 8938373772
+#MASUKAN NOMOR DI URL
+#GAUSAH PAKE 62/0
+#CONTOH 8938373546
 url = "https://id.jagreward.com/member/verify-mobile/8**********/"
 
 
@@ -49,9 +49,8 @@ subprocess.call("figlet SpamCall |lolcat",shell=True)
 banner = """
 \033[1;97m
 ==================================================
-Author  \033[1;91m:\033[1;96mRyzz03\033[1;97m
-Website \033[1;91m:\033[1;96mhttps://termux.id\033[1;97m
-Whatsapp  \033[1;91m:\033[1;92m+6282192959xxx\033[1;97m
+Author   \033[1;91m:\033[1;96mRyzz03\033[1;97m
+WhatsApp \033[1;91m:\033[1;96m+6282192959xxx\033[1;97m
 ==================================================
 """
 print (banner)
